@@ -22,11 +22,11 @@ body{
     color: white;
     text-decoration: none;
     margin-right: 16px;
-    font-size: 1.2rem;
+    font-size: 0.8rem;
 }
 
 .navbar p{
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: bold;
     margin: 0;
 }
@@ -34,10 +34,21 @@ body{
 .navbar .contact{
     background-color: white;
     color:#f08e80;
-    padding: 16px 24px;
+    padding: 14px 22px;
     text-decoration: none;
 }
 
 .navbar .contact:hover {
     opacity: 0.8;
+}
+
+.hero-content{
+    padding: 0 15%;
+}
+
+.tagline{
+    font-size: 3rem;
+    color: white;
+    letter-spacing: 2px;
+    padding: 32px 0;
 }
